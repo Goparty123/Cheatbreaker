@@ -1,0 +1,122 @@
+.newstitle::after {
+    content: "Welcome to OriginalProfiles Custom Cheatbreaker Client";
+}
+
+.newsauthor::after {
+   content: "OriginalProfile";
+}
+
+.newsdate::after {
+   content: "5 OCTOBER 2021";
+}
+
+.newspost::after {
+   content: "- LEARNING TO CODE LOL!";
+}
+
+/* Buttons */
+
+.account-div button {
+   transition: 300ms;
+}
+
+.login-div button {
+   transition: 300ms;
+}
+
+.nav-btns button {
+   transition: 300ms;
+}
+
+.title-bar-btns-1 button,
+.title-bar-btns-2 button {
+    transition: 300ms;
+}
+
+#logohighres {
+   transition: 300ms;
+}
+
+#logohighres:hover {
+   opacity: 0.8;
+}
+
+#quick-1 {
+   transition: 300ms;
+}
+
+#quick-1:hover {
+   opacity: 0.90;
+}
+
+#quick-2 {
+   transition: 300ms;
+}
+
+#quick-2:hover {
+   opacity: 0.90;
+}
+
+#quick-3 {
+   transition: 300ms;
+}
+
+#quick-3:hover {
+   opacity: 0.90;
+}
+
+.footer-content img {
+   transition: 300ms;
+}
+
+.server1-servers {
+   transition: 300ms;
+}
+
+.server1-servers:hover {
+   opacity: 0.90;
+}
+
+.server2-servers {
+   transition: 300ms;
+}
+
+.server2-servers:hover {
+   opacity: 0.90;
+}
+
+.server3-servers {
+   transition: 300ms;
+}
+
+.server3-servers:hover {
+   opacity: 0.90;
+}
+
+.option-one {
+   transition: 300ms;
+}
+
+.option-two {
+   transition: 300ms;
+}
+
+.option-three {
+   transition: 300ms;
+}
+
+.twitter-text {
+   transition: 300ms;
+}
+
+.about-button1 {
+   transition: 300ms;
+}
+
+.about-button2 {
+   transition: 300ms;
+}
+
+.account-box {
+   transition: 300ms;
+}
